@@ -1,8 +1,8 @@
 # TITLE
 
-### Credits
-
 [![License](https://img.shields.io/badge/License-MIT-brightgreen)](https://raw.githubusercontent.com/JoaoATP/project-pes/main/LICENSE)
+
+### Credits
 
 - **[rdbende [azure-ttk-theme]](https://github.com/rdbende/Azure-ttk-theme) Thank you for the theme that inspired me to create the appearance of my application!**
 
