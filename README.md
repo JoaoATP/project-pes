@@ -1,21 +1,11 @@
-# Meu Projeto Incrível
+# TITLE
 
-![Licença](https://img.shields.io/badge/Licença-MIT-brightgreen)
+### Credits
 
-## Descrição
+[![License](https://img.shields.io/badge/License-MIT-brightgreen)](https://raw.githubusercontent.com/JoaoATP/project-pes/main/LICENSE)
 
-Este é um projeto incrível que faz coisas incríveis.
+- **[rdbende [azure-ttk-theme]](https://github.com/rdbende/Azure-ttk-theme) Thank you for the theme that inspired me to create the appearance of my application!**
 
-## Índice
+---
 
-- [Instalação](#instalação)
-- [Uso](#uso)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
-
-## Instalação
-
-Para instalar o projeto, siga estas etapas:
-
-```bash
-pip install meu-projeto-incrível
+**IMPORTANT! If you use or reference this project, please provide proper attribution. We kindly request that you give credit to this repository and its contributors.**
