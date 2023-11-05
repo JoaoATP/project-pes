@@ -1,6 +1,12 @@
-# TITLE
+# MUSIFREE
 
 [![License](https://img.shields.io/badge/License-MIT-brightgreen)](https://raw.githubusercontent.com/JoaoATP/project-pes/main/LICENSE)
+
+### How to use
+
+```py
+pip3 install -r requeriments.txt
+```
 
 ### Credits
 
